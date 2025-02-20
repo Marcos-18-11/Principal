@@ -1,4 +1,0 @@
-SHOW TABLES IN WORLD;
-DESCRIBE country;
-DESCRIBE countrylanguage;
-DESCRIBE city;
