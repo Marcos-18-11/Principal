@@ -1,0 +1,3 @@
+BEGIN;
+SELECT * FROM actor WHERE actor_id = 1 FOR UPDATE;
+COMMIT;
